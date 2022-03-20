@@ -1,22 +1,5 @@
-# ocr_receipt
+# 해야할 일
+21일(월) : 
+비교적 쉬운 L,O,P,D모델(중분류 X)로 데이터 증분시키고(비율맞춰서 증분) 학습
+학습 파라미터 시도 : epoch 5,10 / batch 8,16,64 cross로 시도해봐야함(결과 다 보고서에 필요하므로 다 저장해놓기)
 
-/*-- 
-    ocr_receipt
-    Copyright (C) 2021, dain_choi 
- 
- 
-    This library is free software; you can redistribute it and/or modify it 
-    under the terms of the GNU Lesser General Public License as published by 
-    the Free Software Foundation; either version 2.1 of the License, or (at  
-    your option) any later version. 
- 
-    This library is distributed in the hope that it will be useful, but  
-    WITHOUT ANY WARRANTY; without even the implied warranty of  
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser  
-    General Public License for more details. 
- 
-    You should have received a copy of the GNU Lesser General Public License  
-    along with this library; if not, write to the Free Software Foundation,  
-    Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA  
- 
---*/  
